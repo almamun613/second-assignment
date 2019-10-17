@@ -1,0 +1,54 @@
+*{
+	margin: 0px;
+}
+body{
+	background: url(../img/joker.jpg)no-repeat;
+	background-size: cover;
+	font-family: 'Mansalva', cursive;
+
+}
+
+.con-for-sp {
+    width: 640px;
+    margin: 5% 928px auto;
+}
+
+.Sign-up-section img{
+        width: 150px;
+        height: 150px;
+        margin: 0px 80px auto;
+    }
+    .Sign-up-section h1{
+	font-size: 40px;
+}
+.f{
+	color: #B5B5B5;
+}
+    .fix-de{
+	width: 55%;
+	height: 32px;
+	padding: 5px;
+	margin-bottom: 8px;
+	 background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #fff;
+    color: #fff;
+    opacity: 5; 
+
+    }
+.btn{
+	background: #B5B5B5;
+	padding: 3px 8px;
+	color: #fff;
+	display: block;
+	text-transform: uppercase;
+	border: none;
+	transition: 0.8s ease;
+    -webkit-transition: 0.8s ease;
+    -o-transition: 0.8s ease;
+}
+.btn:hover{
+	box-shadow: 2px 4px 2px ##20FFDA;
+
+}
